@@ -1,7 +1,8 @@
+
 criaCartao(
-    'Programação'
-    'O que é Python'
-    'O Python é uma linguagem de programalção'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
@@ -9,21 +10,27 @@ criaCartao(
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
+
 criaCartao(
     'Programação',
-    'O que é uma função',
+    'O que é uma funçaõ?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
-criaCartao(
 
-)
-criaCartao (
-'Biologia',
-'Quem é considerado o pai da genética?',
-'Gregor Mendel'
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em inglês?',
+    'Oi em inglês é HI (RAI)'
 )
 
 criaCartao(
-    'matemática'
+    'Biologia',
+    'Quem é considerado o pai da genética?',
+    'Gregor Mendel'
+)
 
+criaCartao(
+    'Matemática',
+    'Qual é o valor de Pi?',
+    '3,14'
 )
