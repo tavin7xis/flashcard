@@ -24,9 +24,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Futsal',
-    'Quem é o rei do futsal?',
-    'Falcão'
+    'Biologia',
+    'Morcegos são de qual espécie?',
+    'Os morcegos são mamíferos da Ordem Chiroptera'
 )
 
 criaCartao(
@@ -34,3 +34,8 @@ criaCartao(
     'O que é o quadro de Punnett?',
     'O quadro de Punnett, criado por Reginald Punnett, é uma espécie de diagrama que permite determinar as frequências esperadas de um genótipo para um cruzamento.'
 )
+ criaCartao(
+    'Biologia'
+    'Como fosseis se criam?',
+    'São conservados em sedimentos minerais, principalmente a sílica; o processo de fossilização consiste na transformação da matéria orgânica em um composto mineral, mas que não perde sua característica física. Um fóssil pode ser definido como a substituição da matéria orgânica de um animal ou vegetal por minerais.'
+ )
