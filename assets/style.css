@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('pppr.jpg'), no-repeat cover;
+        background: url('img/pppr.jpg'), no-repeat cover;
     }
 
     .cartao {
