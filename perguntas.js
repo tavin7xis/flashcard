@@ -1,36 +1,36 @@
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma funçaõ?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em inglês?',
-    'Oi em inglês é HI (RAI)'
+    'Biologia',
+    'O que é um DNA?',
+    'O DNA é um tipo de ácido nucleico que possui destaque por armazenar a informação genética da grande maioria dos seres vivos.'
 )
 
 criaCartao(
     'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    'Qual a diferença de DNA e RNA?',
+    'DNA e RNA são ácidos nucléicos que possuem diferentes estruturas, mas que apresentam funções indispensáveis para o metabolismo e a reprodução de um organismo. Enquanto o DNA é responsável por armazenar as informações genéticas dos seres vivos, o RNA atua na produção de proteínas.'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Biologia',
+    'Como saber o nome cientifico de um animal?',
+    ' O primeiro nome deve ter sua inicial maiúscula e diz respeito ao gênero. O segundo nome é o epíteto específico e deve ser escrito com inicial minúscula.'
+)
+
+criaCartao(
+    'Futebol',
+    'Quantos titulos de campeonato mundial o time Palmeiras tem?',
+    'O time não possui titulos do campeonato mundial.'
+)
+
+criaCartao(
+    'Futsal',
+    'Quem é o rei do futsal?',
+    'Falcão'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é o quadro de Punnett?',
+    'O quadro de Punnett, criado por Reginald Punnett, é uma espécie de diagrama que permite determinar as frequências esperadas de um genótipo para um cruzamento.'
 )
