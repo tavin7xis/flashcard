@@ -8,7 +8,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'Qual a diferença de DNA e RNA?',
-    'DNA e RNA são ácidos nucléicos que possuem diferentes estruturas, mas que apresentam funções indispensáveis para o metabolismo e a reprodução de um organismo. Enquanto o DNA é responsável por armazenar as informações genéticas dos seres vivos, o RNA atua na produção de proteínas.'
+    'DNA e RNA são ácidos são ácidos nucleicos diferentes mas muito importantes para o metabolismo e a reprodução de um organismo. Enquanto o DNA é responsável por armazenar as informações genéticas dos seres vivos, o RNA atua na produção de proteínas.'
 )
 
 criaCartao(
