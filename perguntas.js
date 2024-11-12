@@ -18,9 +18,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Futebol',
-    'Quantos titulos de campeonato mundial o time Palmeiras tem?',
-    'O time não possui titulos do campeonato mundial.'
+    'Biologia',
+    'Qual a espécie do Dragão de Komodo?',
+    'O Dragão de Komodo é da espécie Varanus komodoensis.'
 )
 
 criaCartao(
