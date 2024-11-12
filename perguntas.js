@@ -36,6 +36,6 @@ criaCartao(
 )
  criaCartao(
     'Biologia'
-    'Como fosseis se criam?',
+    'Como fósseis são criados?',
     'São conservados em sedimentos minerais, principalmente a sílica; o processo de fossilização consiste na transformação da matéria orgânica em um composto mineral, mas que não perde sua característica física. Um fóssil pode ser definido como a substituição da matéria orgânica de um animal ou vegetal por minerais.'
  )
