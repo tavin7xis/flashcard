@@ -17,14 +17,14 @@ body {
     gap: 3rem;
 }
 
-.cartao {
+.cartao { Z: index 2px;
     margin: 1rem 1rem;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
 
-.cartao__conteudo {
+.cartao__conteudo {z-index:3;
     background-color: var(--card-front-color);
     text-align: center;
     /* background-color: aquamarine; */
@@ -52,12 +52,12 @@ body {
     font-size: 1.4vw;
 }
 
-.cartao__conteudo__pergunta p {
+.cartao__conteudo__pergunta p { z-index:3;
     color: var(--text-color);
     font-weight: 500;
 }
 
-.cartao__conteudo__resposta p {
+.cartao__conteudo__resposta p {z-index:3;
     color: var(--card-back-color);
     font-weight: 700;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 .cartao__conteudo__pergunta,
-.cartao__conteudo__resposta {
+.cartao__conteudo__resposta {z-index:3;
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
@@ -75,7 +75,7 @@ body {
     box-sizing: border-box;
 }
 
-.cartao__conteudo__resposta {
+.cartao__conteudo__resposta { z-index:3;
     transform: rotateY(180deg);
     background-color: rgba(150, 0, 219, 0.849);
     border: 4px solid var(--card-back-color);
@@ -96,7 +96,7 @@ footer p {
     margin-top: 0.5rem;
 }
 
-@media (max-width: 560px) {
+@media (max-width: 560px) {z-index: index 1;;
     
     body {
         background: url('img/bg-tablet.webp'), no-repeat cover;
